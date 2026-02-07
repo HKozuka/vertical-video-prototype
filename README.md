@@ -23,13 +23,12 @@ Built a working prototype that uses face detection to intelligently crop 16:9 mo
 - Industry standard for 20+ years (cameras, smartphones)
 - Optimal balance: fast (CPU-only) + accurate enough for MVP
 
-## Files
-
-- **`vertical_video_prototype.ipynb`** - Full implementation with code, analysis, and results
-- **`presentation.pptx`** - summary deck
 
 ## Key Learning
 
 Face detection works reliably for dialogue scenes. For production, recommend hybrid approach: automated ML for simple scenes + editorial review for complex shots. Validate user demand first, then refine algorithm.
+
+
+- **`vertical_video_prototype.ipynb`** - Full implementation with code, analysis, and results
 
 ---
