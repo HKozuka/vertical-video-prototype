@@ -32,8 +32,8 @@ Face detection works well, but dynamic tracking across camera movements creates 
 **Production idea:** Post training a model or push a sample set of hand cropped and A/B test before investing time in perfecting the algorithm.
 
 
-- **`vertical_video_prototype.ipynb`** - Full implementation with code, analysis, and results
-- **vertical_target_output.mp4** -
-- **vertical_ml_prototype.mp4** - 
+- **`vertical_video_cropping_prototype.ipynb`** - Full implementation with code, analysis, and results
+- **`vertical_ml_prototype.mp4`** - Automated output from current ML model (video only: audio preserved in source)
+- **`vertical_target_output.mp4`** - Hand-edited reference showing target output quality 
 
 ---
