@@ -33,5 +33,3 @@ Built a working prototype that uses face detection to intelligently crop 16:9 mo
 Face detection works reliably for dialogue scenes. For production, recommend hybrid approach: automated ML for simple scenes + editorial review for complex shots. Validate user demand first, then refine algorithm.
 
 ---
-
-**View the full notebook:** 
