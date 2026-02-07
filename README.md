@@ -26,9 +26,14 @@ Built a working prototype that uses face detection to intelligently crop 16:9 mo
 
 ## Key Learning
 
-Face detection works reliably for dialogue scenes. For production, recommend hybrid approach: automated ML for simple scenes + editorial review for complex shots. Validate user demand first, then refine algorithm.
+Face detection works well, but dynamic tracking across camera movements creates jitter. More iteration and tuning needed.
+
+
+**Production idea:** Post training a model or push a sample set of hand cropped and A/B test before investing time in perfecting the algorithm.
 
 
 - **`vertical_video_prototype.ipynb`** - Full implementation with code, analysis, and results
+- **vertical_target_output.mp4** -
+- **vertical_ml_prototype.mp4** - 
 
 ---
