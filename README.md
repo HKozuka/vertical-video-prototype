@@ -4,7 +4,7 @@ AI-powered conversion of horizontal movie scenes to vertical format for mobile v
 
 ## Overview
 
-Built a working prototype that uses face detection to intelligently crop 16:9 movies to 9:16 vertical format—optimized for mobile screens where users hold phones vertically.
+Built a working prototype that uses face detection to intelligently crop 16:9 movies to 9:16 vertical format, optimized for mobile screens where users hold phones vertically.
 
 **Key stat:** Vertical videos have 90% higher completion rates on mobile than horizontal videos (Snapchat, 2023)
 
