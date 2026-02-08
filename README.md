@@ -21,8 +21,6 @@ Built a working prototype that uses face detection to intelligently crop 16:9 mo
 - Pre-trained face detection, no training data required
 - 38-stage cascade with ~2,500 decision trees
 - Industry standard for 20+ years (cameras, smartphones)
-- Optimal balance: fast (CPU-only) + accurate enough for MVP
-
 
 ## Key Learning
 
