@@ -6,7 +6,9 @@ AI-powered conversion of horizontal movie scenes to vertical format for mobile v
 
 Built a working prototype that uses face detection to intelligently crop 16:9 movies to 9:16 vertical format, optimized for mobile screens where users hold phones vertically.
 
-**Key stat:** Vertical videos have 90% higher completion rates on mobile than horizontal videos (Snapchat, 2023)
+**Stats with Sources:**
+- Gen Z users expect immersive, full-screen content like TikTok and Instagram Reels. (Walsh, 2024)
+- Vertical video content receives 9x more engagement than horizontal on mobile platforms (Buffer, 2023). 
 
 ## Results
 
